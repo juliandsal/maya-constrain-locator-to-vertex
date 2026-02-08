@@ -2,8 +2,6 @@
 
 A PyMEL script for Autodesk Maya that attaches a locator to a specific vertex on a mesh using a follicle, enabling precise vertex tracking for rigging, animation, or technical setups.
 
-This tool is especially useful for workflows that require locators to follow a vertex accurately, such as animation fixes, simulations, or VR/CG research setups.
-
 ---
 
 ## Features
